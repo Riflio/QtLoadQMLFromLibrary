@@ -21,7 +21,7 @@ void AppCore::setUIMainPath(const QString& newUIiMainPath)
 
 
 /**
-* @brief Подгружаем библиотеку и отдаём путь до qml ресурса UI
+* @brief Подгружаем библиотеку и задаём основные свойства
 * @param path
 * @return
 */

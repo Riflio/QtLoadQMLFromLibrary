@@ -1,0 +1,6 @@
+Makefile
+.qmake.cache
+.qmake.super
+*.pro.user*
+/**/build-*/
+*.log
